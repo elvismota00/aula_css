@@ -9,6 +9,7 @@ O curso foi criado pela Ada Tech e dividido em 6 caminhos. No segundo caminho fo
 ![index](https://github.com/elvismota00/aula_css/assets/137125014/cbaf79c3-b3ce-4052-9b44-4b780d66c427)
 
 ## Tela de Cadastro
+![cadastro](https://github.com/elvismota00/aula_css/assets/137125014/dd428179-b357-4bc5-8817-3c3bb4578407)
 
 ## Liguagens
 <ul>
