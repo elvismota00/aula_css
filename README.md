@@ -19,7 +19,7 @@ O curso foi criado pela Ada Tech e dividido em 6 caminhos. No segundo caminho fo
 
 ## Assets
 <ul>
-  <li>Imagen</li>
+  <li>Imagens</li>
   <li>Fontes</li>
 </ul>
 
