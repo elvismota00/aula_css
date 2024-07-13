@@ -45,11 +45,13 @@ aside h1 {
     font-size: 64px;
     font-weight: 500;
     line-height: 75px;
+    padding-left: 60px;
 }
 
 aside img {
     width: 40rem;
     height: 40rem;
+    padding-left: ;
 }
 
 aside h1 span {
